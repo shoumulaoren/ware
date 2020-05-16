@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="warehouse-producer-menu" />
+        <module name="warehouse-provider-api" />
+        <module name="warehouse-eureka_server" />
+        <module name="warehouse-entity" />
+        <module name="warehouse-provider-ware" />
+        <module name="warehouse-commons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="warehouse" target="1.8" />
+      <module name="warehouse-commons" target="1.8" />
+      <module name="warehouse-entity" target="1.8" />
+      <module name="warehouse-eureka_server" target="1.8" />
+      <module name="warehouse-producer-menu" target="1.8" />
+      <module name="warehouse-producer-user" target="1.8" />
+      <module name="warehouse-provider-api" target="1.8" />
+      <module name="warehouse-provider-ware" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="warehouse" options="-parameters" />
+      <module name="warehouse-commons" options="-parameters" />
+      <module name="warehouse-entity" options="-parameters" />
+      <module name="warehouse-eureka_server" options="-parameters" />
+      <module name="warehouse-producer-menu" options="-parameters" />
+      <module name="warehouse-producer-user" options="-parameters" />
+      <module name="warehouse-provider-api" options="-parameters" />
+      <module name="warehouse-provider-ware" options="-parameters" />
+    </option>
+  </component>
+</project>

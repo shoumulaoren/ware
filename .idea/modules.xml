@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/warehouse.iml" filepath="$PROJECT_DIR$/warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse-entity/warehouse-entity.iml" filepath="$PROJECT_DIR$/warehouse-entity/warehouse-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse-eureka_server/warehouse-eureka_server.iml" filepath="$PROJECT_DIR$/warehouse-eureka_server/warehouse-eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse-producer-menu/warehouse-producer-menu.iml" filepath="$PROJECT_DIR$/warehouse-producer-menu/warehouse-producer-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse-provider-api/warehouse-provider-api.iml" filepath="$PROJECT_DIR$/warehouse-provider-api/warehouse-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse-provider-ware/warehouse-provider-ware.iml" filepath="$PROJECT_DIR$/warehouse-provider-ware/warehouse-provider-ware.iml" />
+    </modules>
+  </component>
+</project>
