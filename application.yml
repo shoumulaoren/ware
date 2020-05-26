@@ -11,7 +11,7 @@ spring:
   application:
    name: menu_server
 server:
-  port: 8080
+  port: 8089
 eureka:
   client:
     service-url:
