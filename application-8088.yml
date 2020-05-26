@@ -1,8 +1,7 @@
 server:
   port: 8088
 spring:
-  profiles:
-    active: dev
+  
   application:
     name: warehouse-provider-ware
   datasource:
